@@ -440,6 +440,7 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     TimeService \
     shutdownlistener \
+	CarrierServices \
     CNEService \
     qcrilmsgtunnel \
     qcnvitems \
